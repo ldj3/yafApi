@@ -1,5 +1,6 @@
 {
     "require": {
-        "topthink/think-orm": "^2.0"
+        "topthink/think-orm": "^2.0",
+        "phpoffice/phpspreadsheet": "^1.24"
     }
 }
